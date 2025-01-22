@@ -60,8 +60,6 @@
 		6B2F52022D394E1A0066FFF3 /* GithubFollowers */ = {
 			isa = PBXGroup;
 			children = (
-				6B2F521B2D3E9A410066FFF3 /* GFButton.swift */,
-				6B42ECBE2D40D82F00D49CE1 /* GFTextField.swift */,
 				6B2F52032D394E1A0066FFF3 /* AppDelegate.swift */,
 				6B2F52052D394E1A0066FFF3 /* SceneDelegate.swift */,
 				6B2F520C2D394E1E0066FFF3 /* Assets.xcassets */,
@@ -69,6 +67,8 @@
 				6B2F52112D394E1E0066FFF3 /* Info.plist */,
 				6B2F52172D3E87700066FFF3 /* SearchVC.swift */,
 				6B2F52192D3E87C50066FFF3 /* FavouritesListVC.swift */,
+				6B2F521B2D3E9A410066FFF3 /* GFButton.swift */,
+				6B42ECBE2D40D82F00D49CE1 /* GFTextField.swift */,
 			);
 			path = GithubFollowers;
 			sourceTree = "<group>";
